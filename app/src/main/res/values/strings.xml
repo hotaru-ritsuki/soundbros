@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioAnalyzer</string>
+
+    <string name="recording_title">Start-record audio.</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="sound">Plot VibroSpeed</string>
+    <string name="amplitude">Plot Amplitude</string>
+</resources>
